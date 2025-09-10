@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Marius]  
+# 👋 Hi there, I'm **Marius**
 
 🚀 **I am a professional Web, Pawn and C++ Developer**  
 Passionate about building modern applications, game modes, and innovative web solutions.  
