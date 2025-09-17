@@ -17,7 +17,6 @@ Passionate about building modern applications, game modes, and innovative web so
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mar1usdev&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mar1usdev&theme=radical)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mar1usdev&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mar1usdev&theme=radical&hide_border=true)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mar1usdev)
 
