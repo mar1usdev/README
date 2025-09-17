@@ -13,11 +13,12 @@ Passionate about building modern applications, game modes, and innovative web so
 ---
 
 ## 📊 GitHub Stats
-![Pawn](https://img.shields.io/badge/Language-Pawn-blue?style=for-the-badge&logo=samp&logoColor=white)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Web](https://img.shields.io/badge/Web-FullStack-ff69b4?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)
+[![Pawn](https://img.shields.io/badge/Language-Pawn-blue?style=for-the-badge&logo=samp&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=Pawn)  
+[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=C%2B%2B)  
+[![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=Node.js)  
+[![Web](https://img.shields.io/badge/Web-FullStack-ff69b4?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=Web)  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mar1usdev)
 
 ---
 
