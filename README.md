@@ -12,11 +12,22 @@ Passionate about building modern applications, game modes, and innovative web so
 
 ---
 
-## 📊 GitHub Stats
-[![Pawn](https://img.shields.io/badge/Language-Pawn-blue?style=for-the-badge&logo=samp&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=Pawn)  
-[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=C%2B%2B)  
-[![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/mar1usdev?tab=repositories&q=Node.js)  
-[![Web](https://img.shields.io/badge/Web-FullStack-ff69b4?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=Web)  
+## 🌟 Projects & Skills
+
+### 🎮 Game Development
+[![SA:MP Gamemodes](https://img.shields.io/badge/SA:MP%20Gamemodes-Play-blue?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=SA:MP)  
+[![RAGE:MP Gamemodes](https://img.shields.io/badge/RAGE:MP%20Gamemodes-Explore-red?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=RAGE:MP)
+
+### 🌐 Web & Apps
+[![Web Projects](https://img.shields.io/badge/Web-Portfolio-ff69b4?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=Web)  
+[![Node.js Projects](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=Node.js)
+
+### ⚡ Tools & Utilities
+[![C++ Tools](https://img.shields.io/badge/C++-HighPerf-00599C?style=for-the-badge)](https://github.com/mar1usdev?tab=repositories&q=C%2B%2B)
+
+### 📡 Connect
+[![Discord](https://img.shields.io/badge/Discord-MariusDev-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5WKMVtraRJ)  
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mar1usdev)
 
