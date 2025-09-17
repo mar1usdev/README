@@ -13,8 +13,9 @@ Passionate about building modern applications, game modes, and innovative web so
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mar1usdev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mar1usdev&layout=compact&theme=radical)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mar1usdev&theme=radical)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mar1usdev&theme=radical)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mar1usdev&theme=radical)
 
 ---
 
