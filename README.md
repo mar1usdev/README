@@ -17,6 +17,7 @@ Passionate about building modern applications, game modes, and innovative web so
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-FullStack-ff69b4?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
