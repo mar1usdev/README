@@ -12,11 +12,12 @@ Passionate about building modern applications, game modes, and innovative web so
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 📊 GitHub Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mar1usdev&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mar1usdev&theme=radical)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mar1usdev&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Pawn](https://img.shields.io/badge/Language-Pawn-blue?style=for-the-badge&logo=samp&logoColor=white)
+![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/Web-FullStack-ff69b4?style=for-the-badge)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mar1usdev)
 
