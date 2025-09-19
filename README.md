@@ -7,7 +7,8 @@ Passionate about building modern applications, game modes, and innovative web so
 
 ## 🛠️ Tech Stack
 - 🌐 Web: HTML, CSS, JavaScript, Node.js, **React (TypeScript, Full-Stack)**  
-- 🎮 Pawn: SA:MP / OMP / RAGE:MP Gamemode Development  
+- 🎮 Pawn: SA:MP / OMP Gamemode Development  
+- 🎮 RAGE:MP: JavaScript / TypeScript Server Development  
 - ⚙️ C++: High-performance systems & tools  
 
 ---
@@ -23,7 +24,8 @@ Passionate about building modern applications, game modes, and innovative web so
 
 ## 🌟 Featured Projects
 - 🎯 **Web Development** – Modern, responsive and optimized web apps  
-- 🕹️ **Pawn Gamemodes** – Custom game modes for SA:MP, OMP, RAGE:MP  
+- 🕹️ **Pawn Gamemodes** – Custom game modes for SA:MP & OMP  
+- 🕹️ **RAGE:MP Development** – Scripts & gamemodes in JavaScript / TypeScript  
 - ⚡ **C++ Tools** – High-performance systems and utilities  
 - ⚛️ **React + TypeScript (Full Stack)** – Scalable apps with modern frontend & backend  
 
